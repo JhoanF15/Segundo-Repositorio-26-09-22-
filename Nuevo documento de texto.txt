@@ -1,0 +1,6 @@
+Paso 01: creamos un nuevo Repositorio en Remoto
+Paso 02: descargamos el repositorio en GitHUb
+Paso 03: creamos unos achivos Texto y lo agreamos al nuestro repositorio, usariamos git add para seleccionar todos los archivos, 
+Luego Git Conmint-M "y la infomarcion", y por ultimo le damos a Git Push
+Paso 04: ahora modificamos nuestro repositorio en remoto y le damos a guardar 
+Paso 05: Abrimos GitHuB Desktop y le damos a Fetch origin , y nos cargara todo lo que tendriamos ne remoto
